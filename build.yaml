@@ -13,8 +13,8 @@
 #
 ---
 include:
-  - board: adafruit_kb2040
+  - board: nice_nano_v2
     shield: lily58_left
     snippet: studio-rpc-usb-uart
-  - board: adafruit_kb2040
+  - board: nice_nano_v2
     shield: lily58_right
